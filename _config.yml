@@ -79,5 +79,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git 
-  repo: https://github.com/c1495616js/c1495616js.github.io.git
+  repo: https://gh_token@github.com/c1495616js/c1495616js.github.io.git
   branch: master
